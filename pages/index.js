@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem-vindo a <font color="#716147">Grouw Up!</font>
+          Bem-vindo a <font color="#716147">Grow Up!</font>
         </h1>
 
         <hr />
